@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  SokolovskyLab8Dlg.cpp
+c:\users\dell\documents\visual studio 2015\projects\sokolovskylab8\sokolovskylab8\sokolovskylab8dlg.cpp(267): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+  SokolovskyLab8.cpp
+  MySocket.cpp
+  Создание кода...
+  SokolovskyLab8.vcxproj -> C:\Users\DELL\Documents\Visual Studio 2015\Projects\SokolovskyLab8\Debug\SokolovskyLab8.exe
+  SokolovskyLab8.vcxproj -> C:\Users\DELL\Documents\Visual Studio 2015\Projects\SokolovskyLab8\Debug\SokolovskyLab8.pdb (Full PDB)
